@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jose\\source\\repos\\ArmoaTech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACBFD8A-CBC9-43EC-8273-EED9A0FA5809}|ArmoaTech\\ArmoaTech.csproj|c:\\users\\jose\\source\\repos\\armoatech\\armoatech\\pages\\seguimiento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ACBFD8A-CBC9-43EC-8273-EED9A0FA5809}|ArmoaTech\\ArmoaTech.csproj|solutionrelative:armoatech\\pages\\seguimiento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACBFD8A-CBC9-43EC-8273-EED9A0FA5809}|ArmoaTech\\ArmoaTech.csproj|c:\\users\\jose\\source\\repos\\armoatech\\armoatech\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ACBFD8A-CBC9-43EC-8273-EED9A0FA5809}|ArmoaTech\\ArmoaTech.csproj|solutionrelative:armoatech\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACBFD8A-CBC9-43EC-8273-EED9A0FA5809}|ArmoaTech\\ArmoaTech.csproj|c:\\users\\jose\\source\\repos\\armoatech\\armoatech\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ACBFD8A-CBC9-43EC-8273-EED9A0FA5809}|ArmoaTech\\ArmoaTech.csproj|solutionrelative:armoatech\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Seguimiento.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ArmoaTech\\ArmoaTech\\Pages\\Seguimiento.cshtml",
+              "RelativeDocumentMoniker": "ArmoaTech\\Pages\\Seguimiento.cshtml",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ArmoaTech\\ArmoaTech\\Pages\\Seguimiento.cshtml",
+              "RelativeToolTip": "ArmoaTech\\Pages\\Seguimiento.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T00:14:36.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ArmoaTech\\ArmoaTech\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ArmoaTech\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ArmoaTech\\ArmoaTech\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ArmoaTech\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T23:12:36.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jose\\source\\repos\\ArmoaTech\\ArmoaTech\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ArmoaTech\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jose\\source\\repos\\ArmoaTech\\ArmoaTech\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ArmoaTech\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T23:11:41.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
