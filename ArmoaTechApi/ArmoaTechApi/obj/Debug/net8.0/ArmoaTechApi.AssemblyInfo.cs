@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArmoaTechApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25a7ed2d8392fbb19dac6c93a0f9badea5725dea")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArmoaTechApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArmoaTechApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
