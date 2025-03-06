@@ -1,0 +1,37 @@
+﻿@page
+@model SeguimientoModel
+@{
+    ViewData["Title"] = "Seguimiento de Reparación";
+}
+
+<nav class="navbar navbar-light bg-light">
+    <div class="container">
+        <a class="navbar-brand" href="/">ArmoaTech Repara</a>
+    </div>
+</nav>
+
+<div class="container mt-5 p-4 text-center rounded bg-light shadow">
+    <h2>Seguimiento de Reparación</h2>
+    <p>Ingrese su código único de reparación para conocer el estado de su dispositivo.</p>
+
+    <form method="post">
+        <div class="mb-3">
+            <input type="text" class="form-control" name="codigoUnico" placeholder="Ingrese su código único" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Consultar</button>
+    </form>
+</div>
+
+@if (Model.Reparacion != null)
+{
+    <div class="container mt-4 p-3 rounded bg-success text-white shadow">
+        <h4>Estado de su reparación:</h4>
+        <p>@Model.Reparacion.Estado</p>
+    </div>
+}
+else if (Model.ConsultaRealizada)
+{
+    <div class="container mt-4 p-3 rounded bg-danger text-white shadow">
+        <p>Código no encontrado. Verifique e intente nuevamente.</p>
+    </div>
+}
