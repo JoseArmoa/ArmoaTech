@@ -22,16 +22,3 @@
     </form>
 </div>
 
-@if (Model.Reparacion != null)
-{
-    <div class="container mt-4 p-3 rounded bg-success text-white shadow">
-        <h4>Estado de su reparación:</h4>
-        <p>@Model.Reparacion.Estado</p>
-    </div>
-}
-else if (Model.ConsultaRealizada)
-{
-    <div class="container mt-4 p-3 rounded bg-danger text-white shadow">
-        <p>Código no encontrado. Verifique e intente nuevamente.</p>
-    </div>
-}

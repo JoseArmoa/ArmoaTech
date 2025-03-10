@@ -1,12 +1,92 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jose\\source\\repos\\ArmoaTechApi\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Nueva carpeta\\ArmoaTech\\ArmoaTechApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C93B5C0E-0CE8-485C-BA33-038AF3A55BD4}|ArmoaTechApi\\ArmoaTechApi.csproj|c:\\users\\alber\\onedrive\\escritorio\\nueva carpeta\\armoatech\\armoatechapi\\armoatechapi\\controllers\\reparacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93B5C0E-0CE8-485C-BA33-038AF3A55BD4}|ArmoaTechApi\\ArmoaTechApi.csproj|solutionrelative:armoatechapi\\controllers\\reparacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93B5C0E-0CE8-485C-BA33-038AF3A55BD4}|ArmoaTechApi\\ArmoaTechApi.csproj|c:\\users\\alber\\onedrive\\escritorio\\nueva carpeta\\armoatech\\armoatechapi\\armoatechapi\\models\\reparaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93B5C0E-0CE8-485C-BA33-038AF3A55BD4}|ArmoaTechApi\\ArmoaTechApi.csproj|solutionrelative:armoatechapi\\models\\reparaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93B5C0E-0CE8-485C-BA33-038AF3A55BD4}|ArmoaTechApi\\ArmoaTechApi.csproj|c:\\users\\alber\\onedrive\\escritorio\\nueva carpeta\\armoatech\\armoatechapi\\armoatechapi\\models\\observaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93B5C0E-0CE8-485C-BA33-038AF3A55BD4}|ArmoaTechApi\\ArmoaTechApi.csproj|solutionrelative:armoatechapi\\models\\observaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93B5C0E-0CE8-485C-BA33-038AF3A55BD4}|ArmoaTechApi\\ArmoaTechApi.csproj|c:\\users\\alber\\onedrive\\escritorio\\nueva carpeta\\armoatech\\armoatechapi\\armoatechapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93B5C0E-0CE8-485C-BA33-038AF3A55BD4}|ArmoaTechApi\\ArmoaTechApi.csproj|solutionrelative:armoatechapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReparacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Nueva carpeta\\ArmoaTech\\ArmoaTechApi\\ArmoaTechApi\\Controllers\\ReparacionesController.cs",
+              "RelativeDocumentMoniker": "ArmoaTechApi\\Controllers\\ReparacionesController.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Nueva carpeta\\ArmoaTech\\ArmoaTechApi\\ArmoaTechApi\\Controllers\\ReparacionesController.cs",
+              "RelativeToolTip": "ArmoaTechApi\\Controllers\\ReparacionesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:39:15.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reparaciones.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Nueva carpeta\\ArmoaTech\\ArmoaTechApi\\ArmoaTechApi\\Models\\Reparaciones.cs",
+              "RelativeDocumentMoniker": "ArmoaTechApi\\Models\\Reparaciones.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Nueva carpeta\\ArmoaTech\\ArmoaTechApi\\ArmoaTechApi\\Models\\Reparaciones.cs",
+              "RelativeToolTip": "ArmoaTechApi\\Models\\Reparaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:38:05.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Observaciones.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Nueva carpeta\\ArmoaTech\\ArmoaTechApi\\ArmoaTechApi\\Models\\Observaciones.cs",
+              "RelativeDocumentMoniker": "ArmoaTechApi\\Models\\Observaciones.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Nueva carpeta\\ArmoaTech\\ArmoaTechApi\\ArmoaTechApi\\Models\\Observaciones.cs",
+              "RelativeToolTip": "ArmoaTechApi\\Models\\Observaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:37:45.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Nueva carpeta\\ArmoaTech\\ArmoaTechApi\\ArmoaTechApi\\Program.cs",
+              "RelativeDocumentMoniker": "ArmoaTechApi\\Program.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Nueva carpeta\\ArmoaTech\\ArmoaTechApi\\ArmoaTechApi\\Program.cs",
+              "RelativeToolTip": "ArmoaTechApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T17:07:15.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

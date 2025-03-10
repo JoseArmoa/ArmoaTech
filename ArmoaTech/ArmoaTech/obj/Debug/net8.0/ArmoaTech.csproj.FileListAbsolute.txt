@@ -32,3 +32,38 @@ C:\Users\Jose\source\repos\ArmoaTech\ArmoaTech\obj\Debug\net8.0\refint\ArmoaTech
 C:\Users\Jose\source\repos\ArmoaTech\ArmoaTech\obj\Debug\net8.0\ArmoaTech.pdb
 C:\Users\Jose\source\repos\ArmoaTech\ArmoaTech\obj\Debug\net8.0\ArmoaTech.genruntimeconfig.cache
 C:\Users\Jose\source\repos\ArmoaTech\ArmoaTech\obj\Debug\net8.0\ref\ArmoaTech.dll
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\bin\Debug\net8.0\appsettings.json
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\bin\Debug\net8.0\ArmoaTech.staticwebassets.runtime.json
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\bin\Debug\net8.0\ArmoaTech.staticwebassets.endpoints.json
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\bin\Debug\net8.0\ArmoaTech.exe
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\bin\Debug\net8.0\ArmoaTech.deps.json
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\bin\Debug\net8.0\ArmoaTech.runtimeconfig.json
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\bin\Debug\net8.0\ArmoaTech.dll
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\bin\Debug\net8.0\ArmoaTech.pdb
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\ArmoaTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\ArmoaTech.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\ArmoaTech.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\ArmoaTech.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\ArmoaTech.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\ArmoaTech.RazorAssemblyInfo.cache
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\ArmoaTech.RazorAssemblyInfo.cs
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\ArmoaTech.sourcelink.json
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\scopedcss\bundle\ArmoaTech.styles.css
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\scopedcss\projectbundle\ArmoaTech.bundle.scp.css
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\staticwebassets\msbuild.ArmoaTech.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\staticwebassets\msbuild.ArmoaTech.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\staticwebassets\msbuild.build.ArmoaTech.props
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ArmoaTech.props
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ArmoaTech.props
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\ArmoaTech.dll
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\refint\ArmoaTech.dll
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\ArmoaTech.pdb
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\ArmoaTech.genruntimeconfig.cache
+C:\Users\alber\OneDrive\Escritorio\Nueva carpeta\ArmoaTech\ArmoaTech\ArmoaTech\obj\Debug\net8.0\ref\ArmoaTech.dll

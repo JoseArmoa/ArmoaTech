@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Nueva carpeta\\ArmoaTech\\ArmoaTech\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2ACBFD8A-CBC9-43EC-8273-EED9A0FA5809}|ArmoaTech\\ArmoaTech.csproj|c:\\users\\alber\\onedrive\\escritorio\\nueva carpeta\\armoatech\\armoatech\\armoatech\\pages\\seguimiento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2ACBFD8A-CBC9-43EC-8273-EED9A0FA5809}|ArmoaTech\\ArmoaTech.csproj|solutionrelative:armoatech\\pages\\seguimiento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2ACBFD8A-CBC9-43EC-8273-EED9A0FA5809}|ArmoaTech\\ArmoaTech.csproj|c:\\users\\alber\\onedrive\\escritorio\\nueva carpeta\\armoatech\\armoatech\\armoatech\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2ACBFD8A-CBC9-43EC-8273-EED9A0FA5809}|ArmoaTech\\ArmoaTech.csproj|solutionrelative:armoatech\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACBFD8A-CBC9-43EC-8273-EED9A0FA5809}|ArmoaTech\\ArmoaTech.csproj|c:\\users\\alber\\onedrive\\escritorio\\nueva carpeta\\armoatech\\armoatech\\armoatech\\pages\\seguimiento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ACBFD8A-CBC9-43EC-8273-EED9A0FA5809}|ArmoaTech\\ArmoaTech.csproj|solutionrelative:armoatech\\pages\\seguimiento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ACBFD8A-CBC9-43EC-8273-EED9A0FA5809}|ArmoaTech\\ArmoaTech.csproj|c:\\users\\alber\\onedrive\\escritorio\\nueva carpeta\\armoatech\\armoatech\\armoatech\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +30,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Seguimiento.cshtml",
               "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Nueva carpeta\\ArmoaTech\\ArmoaTech\\ArmoaTech\\Pages\\Seguimiento.cshtml",
               "RelativeDocumentMoniker": "ArmoaTech\\Pages\\Seguimiento.cshtml",
               "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Nueva carpeta\\ArmoaTech\\ArmoaTech\\ArmoaTech\\Pages\\Seguimiento.cshtml",
               "RelativeToolTip": "ArmoaTech\\Pages\\Seguimiento.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-04T00:14:36.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Nueva carpeta\\ArmoaTech\\ArmoaTech\\ArmoaTech\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "ArmoaTech\\Pages\\Index.cshtml",
@@ -51,7 +51,8 @@
               "RelativeToolTip": "ArmoaTech\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-03T23:12:36.361Z"
+              "WhenOpened": "2025-03-03T23:12:36.361Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
