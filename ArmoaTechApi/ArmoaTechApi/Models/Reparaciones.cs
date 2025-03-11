@@ -25,5 +25,5 @@ public partial class Reparaciones
 
     public decimal? Precio { get; set; }
 
-    public virtual ICollection<Observaciones> Observaciones { get; set; } = new List<Observaciones>();
+    public virtual ICollection<Observaciones>? Observaciones { get; set; } = new List<Observaciones>();
 }

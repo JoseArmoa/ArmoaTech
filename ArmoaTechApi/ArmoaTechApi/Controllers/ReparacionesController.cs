@@ -52,6 +52,7 @@ namespace ArmoaTechApi.Controllers
                 return BadRequest();
             }
 
+            reparaciones.Observaciones = null;
             _context.Entry(reparaciones).State = EntityState.Modified;
 
             try
@@ -78,6 +79,7 @@ namespace ArmoaTechApi.Controllers
         [HttpPost]
         public async Task<ActionResult<Reparaciones>> PostReparaciones(Reparaciones reparaciones)
         {
+            reparaciones.Observaciones = null;
             _context.Reparaciones.Add(reparaciones);
             try
             {

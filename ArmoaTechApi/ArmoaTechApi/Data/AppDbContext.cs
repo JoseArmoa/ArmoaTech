@@ -72,6 +72,7 @@ public partial class AppDbContext : DbContext
 
             entity.HasOne(d => d.CodReparacionNavigation).WithMany(p => p.Observaciones)
                 .HasForeignKey(d => d.CodReparacion)
+                .OnDelete(DeleteBehavior.SetNull)
                 .HasConstraintName("FK__Observaci__codRe__30F848ED");
         });
 
